@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='README'/>
+        <page name='02-generic-basics'/>
+        <page name='03-generic-constraints'/>
+        <page name='04-associated-types'/>
+        <page name='05-generics-challenge '/>
+        <page name='06-associatedtype-constraints '/>
+        <page name='07-conditional-conformance '/>
+        <page name='08-conditional-conformance-challenge '/>
+    </pages>
+</playground>
